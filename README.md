@@ -1,6 +1,6 @@
 # PAA QUIZ 2 - Sudoku Plus
 
-# Our Project Report
+Our Project Report
 [Reports Link](https://docs.google.com/document/d/1iVcLSx1babg8CO6cYnaKVOfK9xTSU0m7Z5nYYYDTPjY/edit?tab=t.0)
 
 
