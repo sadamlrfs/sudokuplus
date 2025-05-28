@@ -1,22 +1,16 @@
-# DAA-Quiz2
+# PAA QUIZ 2 - Sudoku Plus
 
-**DFS and Backtracking Implementation in Xudoku Game Using Python**
+# Our Project Report
+[Reports Link](https://docs.google.com/document/d/1iVcLSx1babg8CO6cYnaKVOfK9xTSU0m7Z5nYYYDTPjY/edit?tab=t.0)
 
-|                Name                |    NRP     | Class |
-| :--------------------------------: | :--------: | :---: |
-| Achmad Khosyi' Assajjad Ramandanta | 5025211007 |   H   |
-|        Muhammad Zien Zidan         | 5025211122 |   H   |
-|          Jawahirul Wildan          | 5025211152 |   G   |
 
-# Our gdocs link
-https://its.id/m/Report-Quizz2-DAA
+**Sudoku Plus Game (Python) with DFS and Backtracking Implementation**
 
-# Simulation of the programs
-The simulation of our program that has been modified so that it displays the step by step of our Xudoku Solver program :
-- DFS and Backtracking Algorithm Implementation
+|           Name                 |     NRP     | Class |
+| :---------------------------:  | :---------: | :---: |
+| Sadam Ali Rafsanjani           | 5025231025  |   K   |
+| Abimanyu Danendra Andarfebano  | 5025231182  |   K   |
+| Adit                           |      X      |   K   |
 
-![](https://github.com/Khosyi0/DAA-Quiz2/blob/main/gif/daagif.gif?raw=true)
+# Run Program
 
-- Step by step simulation of our program from Initial State to Final State
-
-![](https://github.com/Khosyi0/DAA-Quiz2/blob/main/gif/daagif2.gif?raw=true)
