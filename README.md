@@ -10,7 +10,7 @@ Our Project Report
 | :---------------------------:  | :---------: | :---: |
 | Sadam Ali Rafsanjani           | 5025231025  |   K   |
 | Abimanyu Danendra Andarfebano  | 5025231182  |   K   |
-| Adit                           |      X      |   K   |
+| Muhammad Aditya Handrian       | 5025231292  |   K   |
 
 # Run Program
 
